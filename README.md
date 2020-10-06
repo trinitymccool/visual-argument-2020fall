@@ -1,2 +1,2 @@
-# visual-argument-2020fall title
-Prompts and deadlines for a unit on visual rhetoric in Ben Miller's course on Composing Digital Media
+# Memento Mori
+This visual argument explores the concept of Memento Mori; the fact that life is fleeting, and that we need to take advantage of every single day we have on Earth. Life is a beautiful and rare thing, it would be a shame to waste it.
